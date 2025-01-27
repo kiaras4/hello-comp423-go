@@ -1,0 +1,12 @@
+{
+    "name": "Go Hello World",
+    "image": "mcr.microsoft.com/vscode/devcontainers/go:latest",
+    "customizations": {
+        "vscode": {
+            "settings": {},
+            "extensions": [
+                "ms-vscode.go",
+                "davidanson.vscode-markdownlint"]
+        }
+    }
+}
